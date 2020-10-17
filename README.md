@@ -1,4 +1,4 @@
-# design_app
+# Social Media App Ui in Flutter Framework
 
 A new Flutter project.
 
